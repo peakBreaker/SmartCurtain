@@ -1,4 +1,4 @@
-#SmartCurtain
+# SmartCurtain
 
 Welcome to my smartcurtain repository. Herein lies the source for my smartcurtain project i hacked together to make an automated curtain solution at home.
 
